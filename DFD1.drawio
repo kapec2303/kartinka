@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="Страница — 1" id="q6dLnX_o3XeWb5prNvIG">
-    <mxGraphModel dx="1318" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-1" value="Просмотр мед. карты" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="355" width="130" height="130" as="geometry" />
+          <mxGeometry x="240" y="290" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-2" value="Запись на прием" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="120" height="120" as="geometry" />
@@ -14,10 +14,10 @@
           <mxGeometry x="640" y="370" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-4" value="Формирование отчетов" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="260" y="620" width="140" height="140" as="geometry" />
+          <mxGeometry x="310" y="650" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-5" value="Составление расписания" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="530" y="690" width="140" height="140" as="geometry" />
+          <mxGeometry x="610" y="680" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-6" value="Администратор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="900" width="120" height="60" as="geometry" />
@@ -45,6 +45,11 @@
             <mxPoint x="560" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-54" value="запрос на прием врача" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-10">
+          <mxGeometry x="-0.0073" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-8" target="NePk-Pmd1EhOVy2IN5LR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="580" as="sourcePoint" />
@@ -56,16 +61,15 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NePk-Pmd1EhOVy2IN5LR-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-7" target="NePk-Pmd1EhOVy2IN5LR-1">
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-7" target="NePk-Pmd1EhOVy2IN5LR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="580" as="sourcePoint" />
             <mxPoint x="560" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NePk-Pmd1EhOVy2IN5LR-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-7" target="NePk-Pmd1EhOVy2IN5LR-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="580" as="sourcePoint" />
-            <mxPoint x="560" y="530" as="targetPoint" />
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-55" value="запрос на прием для своего пациента" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-13">
+          <mxGeometry x="0.2111" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-7" target="NePk-Pmd1EhOVy2IN5LR-4">
@@ -74,10 +78,20 @@
             <mxPoint x="560" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-57" value="кол-во и характеристика&lt;div&gt;проведенных работ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-14">
+          <mxGeometry x="0.1026" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-6" target="NePk-Pmd1EhOVy2IN5LR-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="580" as="sourcePoint" />
             <mxPoint x="560" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-62" value="внесение рабочих&lt;div&gt;периодов врачей&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-15">
+          <mxGeometry x="-0.0764" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-16" value="Пациенты больницы" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
@@ -89,17 +103,13 @@
             <mxPoint x="560" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NePk-Pmd1EhOVy2IN5LR-19" value="формирование нового пациента" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="740" y="460" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NePk-Pmd1EhOVy2IN5LR-20" value="запрос на прием врача" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="150" height="30" as="geometry" />
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-53" value="формирование нового пациента" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-17">
+          <mxGeometry x="-0.1557" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-21" value="расписание врачей" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="620" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NePk-Pmd1EhOVy2IN5LR-24" value="внесение правок" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="850" width="120" height="30" as="geometry" />
+          <mxGeometry x="500" y="600" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-5" target="NePk-Pmd1EhOVy2IN5LR-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +126,7 @@
           <mxGeometry x="450" y="540" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-33" value="мед. карта пациента" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="100" height="30" as="geometry" />
+          <mxGeometry x="170" y="200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-33" target="NePk-Pmd1EhOVy2IN5LR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,6 +147,67 @@
         </mxCell>
         <mxCell id="NePk-Pmd1EhOVy2IN5LR-39" value="доступные специалисты" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-38">
           <mxGeometry x="0.1035" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-7" target="NePk-Pmd1EhOVy2IN5LR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="550" as="sourcePoint" />
+            <mxPoint x="560" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-46" value="запрос на получение данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-45">
+          <mxGeometry x="0.0433" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-47" value="Назначение лечения" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="355" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.419;exitY=0.028;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-7" target="NePk-Pmd1EhOVy2IN5LR-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="550" as="sourcePoint" />
+            <mxPoint x="560" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-49" value="внесение данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-48">
+          <mxGeometry x="-0.1117" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-47" target="NePk-Pmd1EhOVy2IN5LR-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="330" as="sourcePoint" />
+            <mxPoint x="140" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-52" value="сохранение изменений" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-51">
+          <mxGeometry x="0.0538" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-6" target="NePk-Pmd1EhOVy2IN5LR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-59" value="внесение данных&lt;div&gt;о проделанных работах&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-58">
+          <mxGeometry x="0.0773" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NePk-Pmd1EhOVy2IN5LR-4" target="NePk-Pmd1EhOVy2IN5LR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NePk-Pmd1EhOVy2IN5LR-61" value="получение данных за&lt;div&gt;определённый период времени&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NePk-Pmd1EhOVy2IN5LR-60">
+          <mxGeometry x="0.0095" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
