@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.6">
   <diagram name="Страница-1" id="Vv218_6h5aS7F62zTPMx">
-    <mxGraphModel dx="1705" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry height="60" width="120" x="950" y="250" as="geometry" />
         </mxCell>
         <mxCell id="XZA8AU32EOOBBMEml7-R-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Редактирование узловых точек графа" vertex="1">
-          <mxGeometry height="60" width="120" x="1140" y="250" as="geometry" />
+          <mxGeometry height="60" width="130" x="1135" y="250" as="geometry" />
         </mxCell>
         <mxCell id="XZA8AU32EOOBBMEml7-R-117" edge="1" parent="1" source="XZA8AU32EOOBBMEml7-R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="XZA8AU32EOOBBMEml7-R-2">
           <mxGeometry relative="1" as="geometry" />
