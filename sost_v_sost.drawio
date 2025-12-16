@@ -1,52 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
   <diagram name="Страница-1" id="lY75eTgEJYfOCHk5jVys">
-    <mxGraphModel dx="2532" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4781" dy="3169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="abYk0gU7aRYu4xzKjjRp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Ожидание запуска программной системы" vertex="1">
           <mxGeometry height="70" width="200" x="-320" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-9" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="abYk0gU7aRYu4xzKjjRp-7">
+        <mxCell id="abYk0gU7aRYu4xzKjjRp-9" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="abYk0gU7aRYu4xzKjjRp-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-560" y="600" />
+              <mxPoint x="-266" y="540" />
+              <mxPoint x="-560" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-13" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="abYk0gU7aRYu4xzKjjRp-13" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-500" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-14" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-220.4117647058822" y="200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-61" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-15" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-62" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.178;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="x7O39sNVQVGgnx9ddRgg-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-266" y="190" />
+              <mxPoint x="-267" y="190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание дальнейших действий" vertex="1">
           <mxGeometry height="70" width="186" x="-313" y="420" as="geometry" />
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Завершение работы программной системы&amp;nbsp;&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="280" x="-700" y="710" as="geometry" />
+          <mxGeometry height="40" width="280" x="-700" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-10" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;">
+        <mxCell id="abYk0gU7aRYu4xzKjjRp-10" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-320" y="750" />
+              <mxPoint x="-560" y="750" />
             </Array>
             <mxPoint x="-320" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка завершения" vertex="1">
-          <mxGeometry height="40" width="280" x="-700" y="750" as="geometry" />
+          <mxGeometry height="40" width="280" x="-700" y="640" as="geometry" />
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-11" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-2" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x7O39sNVQVGgnx9ddRgg-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание загрузки файла плана помещения" vertex="1">
@@ -58,11 +63,11 @@
         <mxCell id="abYk0gU7aRYu4xzKjjRp-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запуска" vertex="1">
           <mxGeometry height="40" width="250" x="-345" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание вывода 3D-реконструции плана помещения пользователю" vertex="1">
-          <mxGeometry height="70" width="203" x="-323" y="100" as="geometry" />
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-66" edge="1" parent="1" source="abYk0gU7aRYu4xzKjjRp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x7O39sNVQVGgnx9ddRgg-65" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="abYk0gU7aRYu4xzKjjRp-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="???" vertex="1">
-          <mxGeometry height="60" width="120" x="-50" y="105" as="geometry" />
+        <mxCell id="abYk0gU7aRYu4xzKjjRp-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание вывода 3D-реконструции плана помещения пользователю" vertex="1">
+          <mxGeometry height="70" width="203" x="-950" y="300" as="geometry" />
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Запрос на указание пути файла плана помещения" vertex="1">
           <mxGeometry height="40" width="250" x="-630" y="290" as="geometry" />
@@ -71,13 +76,212 @@
           <mxGeometry height="40" width="250" x="-630" y="330" as="geometry" />
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Запрос на выбор сохраненной 3D-реконструкции" vertex="1">
-          <mxGeometry height="40" width="250" x="-350" y="290" as="geometry" />
+          <mxGeometry height="40" width="250" x="-780" y="415" as="geometry" />
         </mxCell>
         <mxCell id="abYk0gU7aRYu4xzKjjRp-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
-          <mxGeometry height="40" width="250" x="-350" y="330" as="geometry" />
+          <mxGeometry height="40" width="250" x="-780" y="455" as="geometry" />
         </mxCell>
-        <mxCell id="rdYM0waLkGg8O_A7Yn6R-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="сделать что-то типа хаба, после того как загрузиили план есть разветление, можно редактировать сохранять удалять, так будет проще разветлять саму диаграму" vertex="1">
-          <mxGeometry height="30" width="60" x="200" y="420" as="geometry" />
+        <mxCell id="rdYM0waLkGg8O_A7Yn6R-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;сделать что-то типа хаба, после того как загрузиили план есть разветление, можно редактировать сохранять удалять, так будет проще разветлять саму диаграму&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="-10" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-7" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="-75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="70" width="185" x="-590" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление изображения плана помещения" vertex="1">
+          <mxGeometry height="40" width="250" x="-622.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Проверка изображения" vertex="1">
+          <mxGeometry height="40" width="250" x="-622.5" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-12" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x7O39sNVQVGgnx9ddRgg-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-17" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x7O39sNVQVGgnx9ddRgg-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-20" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x7O39sNVQVGgnx9ddRgg-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание дальнейших действий" vertex="1">
+          <mxGeometry height="70" width="185" x="-300" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление готовой 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="40" width="250" x="-480" y="-210" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка подтверждения" vertex="1">
+          <mxGeometry height="40" width="250" x="-480" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-36" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x7O39sNVQVGgnx9ddRgg-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-38" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="x7O39sNVQVGgnx9ddRgg-37" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="-260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание управления 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="70" width="185" x="-40" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление готовой 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="40" width="250" x="-290" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка подтверждения" vertex="1">
+          <mxGeometry height="40" width="250" x="-290" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-26" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="x7O39sNVQVGgnx9ddRgg-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание редактирования 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="70" width="185" x="220" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Хотел сделать тут этот хаб, чтобы после обработки изображения можно было делать управления планами (сохранять, удалять), вносить правки (редактирование планов) и менять узлы графа&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="315" x="-330" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-55" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="x7O39sNVQVGgnx9ddRgg-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание редактирования узловых точек графа" vertex="1">
+          <mxGeometry height="70" width="185" x="220" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление готовой 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="40" width="250" x="-72.5" y="-115" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="-72.5" y="-75" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление готовой 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="40" width="250" x="-72.5" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="-72.5" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-30" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание сохранения изменений 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="70" width="185" x="760" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление изменений 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="40" width="250" x="460" y="-115" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка подтвержения" vertex="1">
+          <mxGeometry height="40" width="250" x="460" y="-75" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Продолжение работы программной системы" vertex="1">
+          <mxGeometry height="40" width="250" x="730" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="730" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-42" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="-215" />
+              <mxPoint x="1030" y="530" />
+              <mxPoint x="-127" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание сохранения 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="70" width="185" x="492.5" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-39" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="-355" />
+              <mxPoint x="1080" y="540" />
+              <mxPoint x="-174" y="540" />
+            </Array>
+            <mxPoint x="710" y="-360.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание удаления 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="70" width="185" x="460" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Продолжение работы программной системы" vertex="1">
+          <mxGeometry height="40" width="250" x="760" y="-395" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="760" y="-355" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Продолжение работы программной системы" vertex="1">
+          <mxGeometry height="40" width="250" x="760" y="-255" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="760" y="-215" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление готовой 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="35" width="210" x="210" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка подтверждения" vertex="1">
+          <mxGeometry height="35" width="210" x="210" y="-215" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление готовой 3D-реконструкции плана помещения" vertex="1">
+          <mxGeometry height="35" width="210" x="110" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка подтверждения" vertex="1">
+          <mxGeometry height="35" width="210" x="110" y="-355" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-56" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="578" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание сохранения изменений графа" vertex="1">
+          <mxGeometry height="70" width="185" x="485" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Продолжение работы программной системы" vertex="1">
+          <mxGeometry height="40" width="250" x="452.5" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="452.5" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поступление изменений узловых точек графа" vertex="1">
+          <mxGeometry height="40" width="230" x="310" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка подтверждения" vertex="1">
+          <mxGeometry height="30" width="230" x="310" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Запрос на работу с планом эвакуации" vertex="1">
+          <mxGeometry height="40" width="250" x="-240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="-240" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-70" edge="1" parent="1" source="x7O39sNVQVGgnx9ddRgg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="abYk0gU7aRYu4xzKjjRp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1030" y="35" />
+              <mxPoint x="-1030" y="520" />
+              <mxPoint x="-470" y="520" />
+              <mxPoint x="-470" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ожидание вывода маршрута на&amp;nbsp; 3D-реконструции плана помещения пользователю" vertex="1">
+          <mxGeometry height="70" width="210" x="-950" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Запрос на построение маршрута" vertex="1">
+          <mxGeometry height="40" width="250" x="-973.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="-973.5" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Продолжение работы программной системы" vertex="1">
+          <mxGeometry height="40" width="250" x="-1150" y="412.36" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обработка запроса" vertex="1">
+          <mxGeometry height="40" width="250" x="-1150" y="452.36" as="geometry" />
+        </mxCell>
+        <mxCell id="x7O39sNVQVGgnx9ddRgg-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Подумать над реализацией: обязательно сначала надо выбрать план, а потом на нем строить маршрут, или это можно реализовать как 2 функции, которые можно совместить (то есть не обязательно что-то сначала строить, можно сначала выбрать точки, а прога сама уже построит план, где они должны быть)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="-1270" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
