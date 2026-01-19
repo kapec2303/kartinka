@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.2">
   <diagram name="Страница-1" id="Vv218_6h5aS7F62zTPMx">
-    <mxGraphModel dx="1251" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2345" dy="1515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,8 +454,14 @@
             <mxPoint x="-6" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvctwXmzXeelUI9XqlN0-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;???&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="630" y="1120" as="geometry" />
+        <mxCell id="QbspyfWEknfo_4Wshcz3-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="420" width="10" x="425" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QbspyfWEknfo_4Wshcz3-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="10" x="425" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="QbspyfWEknfo_4Wshcz3-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="10" x="625" y="1070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
